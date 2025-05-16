@@ -132,6 +132,7 @@ def process_and_send():
             PESSOA_FISICA pf ON ps.CD_PESSOA_FISICA = pf.CD_PESSOA_FISICA
         WHERE
             abp.CD_STATUS = 1
+            AND abp.CD_PERMISSAO = 1
         """
 
         cursor.execute(query)

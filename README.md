@@ -150,6 +150,15 @@ Analista de Sistemas | Analista de Suporte
 
 ---
 
+🔗 Parte do banco de dados para coleta e preparação dos dados
+Este repositório contém os scripts Oracle SQL que suportam a API de notificações.
+
+https://github.com/jaovleal/API_BLIP_PAS_Scripts_SQL
+
+🛠️ João Leal – Desenvolvedor responsável pela criação da tabela principal, procedures e triggers que alimentam a API.
+
+---
+
 ## 📝 Licença
 
 MIT License
